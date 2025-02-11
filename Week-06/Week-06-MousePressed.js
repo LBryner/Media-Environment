@@ -17,6 +17,6 @@ function draw() {
     }
   else
     {
-      background(250, 150, 150)
+      background(250, 150, 150);
     }
 }
